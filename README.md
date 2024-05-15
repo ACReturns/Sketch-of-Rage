@@ -6,19 +6,26 @@ This was created utilizing C# & Unity. This was a solo project in which I create
 Below are some of the key portions I setup and wanted to showcase:
 
 1. [Animations](#Animations)
-2. [Player Traversal](#Traversal)
-3. [Enemy Behavior](#EnemyBehavior)
+2. [Player Traversal](#Player)
+3. [Enemy Behavior](#Enemy)
 
-## Animations <a name="Animations">
+## Animations
 <body>Here are some key animations put together to give the player the freedom to move and attack enemies
   
 ![alt text](Idle.gif)  ![alt text](Walk.gif)  ![alt text](Running.gif)
   
 ![alt text](Punch.gif) ![alt text](Death.gif) ![alt text](Enemy.gif)
-
 </body>
 
-## Traversal 
+## UI
+These are the UI aspects I created.
+![Main Menu](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/b043ca02-1d2d-49e9-806d-46c9cd1455d4)
+
+![Game Over](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/1af30edd-0149-40e9-95fc-fd5e5e612879)
+
+![UI](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/35ff199d-954f-478e-b7ca-43a8e7bb0c72)
+
+## Player 
 <body> 
 Below is the code I utilized to move the player on the x and y axis to feel like old school beat'em ups.
   
@@ -26,7 +33,7 @@ Below is the code I utilized to move the player on the x and y axis to feel like
 </body>
 
 
-## EnemyBehavior 
+## Enemy 
 <body>
 Below is what I utilized for the enemy to keep track of the player and chase them down to attack.
   
