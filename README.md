@@ -11,24 +11,24 @@ Below are some of the key portions I setup and wanted to showcase:
 
 ## Animations <a name="Animations">
 <body>Here are some key animations put together to give the player the freedom to move and attack enemies
-![alt text](Idle.gif)
-![alt text](Walk.gif)
-![alt text](Running.gif)
-![alt text](Punch.gif)
-![alt text](Death.gif)
-![alt text](Enemy.gif)
+  
+![alt text](Idle.gif)  ![alt text](Walk.gif)  ![alt text](Running.gif)
+  
+![alt text](Punch.gif) ![alt text](Death.gif) ![alt text](Enemy.gif)
+
 </body>
 
 ## Traversal 
 <body> 
 Below is the code I utilized to move the player on the x and y axis to feel like old school beat'em ups.
+  
 ![Player Traversal Code](<img/Player_Movement.png>)
 </body>
 
 
 ## EnemyBehavior 
 <body>
-Below is what I utilized for the enemy to keep track of the player and chase them down to attack
-![Player_Movement](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/8ac8a42c-b437-44f0-a290-8e8a4f8cd431)
->)
+Below is what I utilized for the enemy to keep track of the player and chase them down to attack.
+  
+![Enemy Tracking Code](<img/Enemy_Movement.png>)
 </body>
