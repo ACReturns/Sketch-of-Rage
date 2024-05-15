@@ -29,5 +29,6 @@ Below is the code I utilized to move the player on the x and y axis to feel like
 ## EnemyBehavior 
 <body>
 Below is what I utilized for the enemy to keep track of the player and chase them down to attack
-![Player Traversal Code](<img/Player_Movement.png>)
+![Player_Movement](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/8ac8a42c-b437-44f0-a290-8e8a4f8cd431)
+>)
 </body>
