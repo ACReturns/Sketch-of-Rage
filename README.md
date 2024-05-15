@@ -5,18 +5,11 @@ This was created utilizing C# & Unity. This was a solo project in which I create
 
 Below are some of the key portions I setup and wanted to showcase:
 
-1. [Animations](#Animations)
-2. [UI Elements](#UI)
+1. [UI Elements](#UI)
+2. [Animations](#Animations)
 3. [Player Traversal](#Player)
 4. [Enemy Behavior](#Enemy)
 
-## Animations
-<body>Here are some key animations put together to give the player the freedom to move and attack enemies
-  
-![alt text](Idle.gif)  ![alt text](Walk.gif)  ![alt text](Running.gif)
-  
-![alt text](Punch.gif) ![alt text](Death.gif) ![alt text](Enemy.gif)
-</body>
 
 ## UI
 These are the UI aspects I created.
@@ -25,6 +18,14 @@ These are the UI aspects I created.
 ![Game Over](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/1af30edd-0149-40e9-95fc-fd5e5e612879)
 
 ![UI](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/35ff199d-954f-478e-b7ca-43a8e7bb0c72)
+
+## Animations
+<body>Here are some key animations put together to give the player the freedom to move and attack enemies
+  
+![alt text](Idle.gif)  ![alt text](Walk.gif)  ![alt text](Running.gif)
+  
+![alt text](Punch.gif) ![alt text](Death.gif) ![alt text](Enemy.gif)
+</body>
 
 ## Player 
 <body> 
