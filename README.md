@@ -6,8 +6,9 @@ This was created utilizing C# & Unity. This was a solo project in which I create
 Below are some of the key portions I setup and wanted to showcase:
 
 1. [Animations](#Animations)
-2. [Player Traversal](#Player)
-3. [Enemy Behavior](#Enemy)
+2. [UI Elements](#UI)
+3. [Player Traversal](#Player)
+4. [Enemy Behavior](#Enemy)
 
 ## Animations
 <body>Here are some key animations put together to give the player the freedom to move and attack enemies
