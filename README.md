@@ -24,9 +24,11 @@ These are the UI aspects I created.
 ## Animations
 <body>Here are some key animations put together to give the player the freedom to move and attack enemies
   
-![alt text](Idle.gif)  ![alt text](Walk.gif)  ![alt text](Running.gif)
-  
-![alt text](Punch.gif) ![alt text](Death.gif) ![alt text](Enemy.gif)
+![Idle](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/b2a58e30-8f65-417c-9a7e-a70b14461992) ![Walking](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/f8f4400a-8571-4aa3-b614-9d528c3343ae) ![Punching](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/7c343c96-31f0-4bdd-ae34-421dfc645db0)
+
+![RunStart](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/fc9d1e6f-7089-4518-bea3-bed5c63aa1da) ![Running](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/dc5c0504-c568-4ef0-8416-124a2014cbf1) ![RunStop](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/3776cad5-0ff1-4230-bfe6-cd5918595358)
+
+![Death](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/0a348f85-d799-4d48-9008-6e621aaabefc) ![Enemy](https://github.com/ACReturns/Sketch-of-Rage/assets/18241737/19b12476-dc69-43ac-b5e7-8a9d5cacab91) 
 </body>
 
 ## Player 
