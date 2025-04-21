@@ -8,9 +8,12 @@ One of the significant challenges was enabling the player to move vertically in 
 
 Here are some of the essential sections I organized and would like to highlight:
 
-1. [Animations](#Animations)
-2. [Player Traversal](#Traversal)
-3. [Enemy Behavior](#EnemyBehavior)
+1. [UI Elements](#UI)
+2. [Animations](#Animations)
+3. [Player Traversal](#Player)
+4. [Enemy Behavior](#Enemy)
+5. [Acquired Skills](#Experience)
+6. [Portfolio](#Portfolio)
 
 ## Animations <a name="Animations">
 <body>Here are some essential animations designed to provide players with the freedom to navigate and engage enemies effectively.
@@ -22,14 +25,14 @@ Here are some of the essential sections I organized and would like to highlight:
 ![alt text](Enemy.gif)
 </body>
 
-## Traversal 
+## Player 
 <body> 
 Here is the code I used to navigate the player along the x and y axis, creating a nostalgic feel reminiscent of classic beat'em up games.
 ![Player Traversal Code](<img/Player_Movement.png>)
 </body>
 
 
-## EnemyBehavior 
+## Enemy 
 <body>
 Here is the method I employed for the enemy to monitor the player and pursue them for an attack.
 ![Player Traversal Code](<img/Player_Movement.png>)
