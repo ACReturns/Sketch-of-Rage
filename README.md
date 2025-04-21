@@ -17,6 +17,7 @@ Here are some of the essential sections I organized and would like to highlight:
 ## UI <a name="UI Elements">
 <body>
 Here are several UI elements designed to help players transition from the Main Menu to gameplay, as well as to enable them to retry as often as they wish in case of game overs, along with tracking player health and score.
+
 ![Main Menu](<img/Main_Menu.png>)
 ![Game Over](<img/Game_Over.png>)
 ![Player HUD Full Health](<img/Player_HUD.png>)
@@ -26,6 +27,7 @@ Here are several UI elements designed to help players transition from the Main M
 ## Animations <a name="Animations">
 <body>
 Here are some essential animations designed to provide players with the freedom to navigate and engage enemies effectively.
+  
 ![Idle](<img/Idle.gif>)
 ![Walk](<img/Walk.gif>)
 ![Running](<img/Running.gif>)
@@ -37,6 +39,7 @@ Here are some essential animations designed to provide players with the freedom 
 ## Player <a name="Player Traversal">
 <body> 
 Here is the code I used to navigate the player along the x and y axis, creating a nostalgic feel reminiscent of classic beat'em up games.
+  
 ![Player Traversal Code](<img/Player_Movement.png>)
 </body>
 
@@ -44,6 +47,7 @@ Here is the code I used to navigate the player along the x and y axis, creating 
 ## Enemy <a name="Enemy Behavior">
 <body>
 Here is the method I employed for the enemy to monitor the player and pursue them for an attack.
+  
 ![Enemy Traversal Code](<img/Enemy_Movement.png>)
 </body>
 
